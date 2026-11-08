@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**a-sun-moon-stars/a-sun-moon-stars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+致大一新生的自己
+你好，计算机科学的探索者！
+    刚踏入大学校园的你，或许正对着满屏代码感到迷茫。别怕，每一位大神都曾是小萌新。
+建议你：
+· 先把 C 语言基础打牢，别急着追新技术
+· 每天写一点代码，哪怕只是几行
+· 学会用 Git 管理你的作业和项目
+· 多和同学交流，别一个人死磕 bug
+    记住，编程不是背诵，而是解决问题的思维方式。遇到报错别慌，读懂错误信息就是成长。
+四年很长，足够你从 Hello World 写到独立项目。保持好奇，持续动手，你终会感谢现在努力的自己。加油！🚀
